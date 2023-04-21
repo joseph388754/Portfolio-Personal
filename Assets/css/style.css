@@ -76,19 +76,6 @@ html {
     height: 100%;
 }
 
-/* Footer
-.footer {
-    bottom: 0;
-    padding: 15px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    position: fixed;
-    width: 100%;
-    height: 15px;   /* Height of the footer 
-    background: #0d4502;
-} */
-
 .content {
     width: 100%;
     margin: 0 auto;
